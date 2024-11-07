@@ -1,8 +1,10 @@
 version: STSv1
 mode: enforce
+mx: mx-01-us-west-2.prod.hydra.sophos.com
+mx: mx-01-us-west-2.prod.hydra.sophos.com
 mx: alt1.aspmx.l.google.com
 mx: alt2.aspmx.l.google.com
 mx: aspmx.l.google.com
 mx: aspmx2.googlemail.com
 mx: aspmx3.googlemail.com
-max_age: 86400
+max_age: 604800
